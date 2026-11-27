@@ -37,6 +37,26 @@ My current areas of focus are:
 - **Applied AI** — learning and building with Gemini, Imagen and Vertex AI
 - **Application services** — Firebase, SQL, REST APIs and backend integration
 
+## Featured project
+
+<div align="center">
+  <h3>⚡ DevPulse AI</h3>
+  <p><b>AI-assisted developer productivity · Workflow intelligence</b></p>
+  <p>
+    An AI-powered project concept focused on helping developers make sense of their work and improve everyday development workflows.
+  </p>
+  <a href="https://youtu.be/TDF7M6JyOrg">
+    <img src="https://img.shields.io/badge/▶_Watch_Project_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DevPulse AI demo" />
+  </a>
+  <br/>
+  <sub>Submitted to the <b>Build, Ship, Shape: Amazon Developer Hackathon</b></sub>
+</div>
+
+**Project focus**
+- Developer productivity and workflow intelligence
+- Applying generative AI to practical developer workflows
+- Exploring ways to make development work more organized and actionable
+
 ## Selected applications
 
 A selection of Android applications published under my developer portfolio.
