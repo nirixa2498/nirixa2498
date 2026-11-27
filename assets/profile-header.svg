@@ -28,17 +28,5 @@
   <path d="M230 190 H970" stroke="#60A5FA" stroke-opacity=".55" stroke-width="1.5"/>
   <text x="600" y="235" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="20">I build mobile products with a focus on thoughtful UX,</text>
   <text x="600" y="265" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="20">reliable engineering and useful technology.</text>
-  <g>
-    <rect x="235" y="300" width="230" height="54" rx="11" fill="#15803D"/>
-    <text x="350" y="334" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">▶  GOOGLE PLAY</text>
-  </g>
-  <g>
-    <rect x="485" y="300" width="250" height="54" rx="11" fill="#2563EB" stroke="#93C5FD" stroke-opacity=".55"/>
-    <text x="610" y="334" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">✦  GOOGLE CLOUD</text>
-  </g>
-  <g>
-    <rect x="755" y="300" width="190" height="54" rx="11" fill="#B91C1C"/>
-    <text x="850" y="334" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">✉  EMAIL</text>
-  </g>
   <text x="600" y="395" text-anchor="middle" fill="#BFDBFE" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">AHMEDABAD, GUJARAT, INDIA</text>
 </svg>
