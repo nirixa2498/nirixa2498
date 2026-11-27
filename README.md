@@ -2,12 +2,22 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101828,50:173B65,100:2563EB&height=190&section=header&text=NIRIXA%20SATHAVARA&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=ANDROID%20ENGINEER%20%7C%20KOTLIN%20%7C%20JAVA%20%7C%20APPLIED%20AI&descSize=14&descAlignY=66&animation=fadeIn" alt="Nirixa Sathavara profile banner" />
-  <br/>
-  <a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara"><img src="https://img.shields.io/badge/Google_Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play portfolio"/></a>
-  <a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383"><img src="https://img.shields.io/badge/Google_Cloud-Learning%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud profile"/></a>
-  <a href="mailto:nirixasathavara2498@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <p><b>Building useful Android experiences with clean UI, reliable code and practical AI.</b></p>
-  <p>⌖ Ahmedabad, Gujarat, India</p>
+</div>
+
+<div align="center">
+
+# Nirixa Sathavara
+
+### Android Engineer · Kotlin & Java · Generative AI
+
+**I build mobile products with a focus on thoughtful UX, reliable engineering and useful technology.**
+
+<a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara"><img src="https://img.shields.io/badge/Google_Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play portfolio"/></a>
+<a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383"><img src="https://img.shields.io/badge/Google_Cloud-Learning%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud profile"/></a>
+<a href="mailto:nirixasathavara2498@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+⌖ Ahmedabad, Gujarat, India
+
 </div>
 
 ---
@@ -46,24 +56,12 @@ I'm a Computer Engineering graduate and Android developer interested in building
 
 ## 🧰 Technical Skills
 
-<div align="center">
-
-**Languages & Development**
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,php,mysql" alt="Kotlin, Java, PHP and MySQL"/>
-
-**Android, Design & Tools**
-
-<img src="https://skillicons.dev/icons?i=androidstudio,android,figma,firebase,git,github" alt="Android Studio, Android, Figma, Firebase, Git and GitHub"/>
-
-**AI & Cloud**
-
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
-<img src="https://img.shields.io/badge/Imagen-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Imagen"/>
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
-
-</div>
+| **Category** | **Technologies** |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,java,php,mysql" alt="Kotlin, Java, PHP and MySQL"/> |
+| **Android & UI** | <img src="https://skillicons.dev/icons?i=androidstudio,android,figma" alt="Android Studio, Android and Figma"/> |
+| **Backend & Tools** | <img src="https://skillicons.dev/icons?i=firebase,git,github" alt="Firebase, Git and GitHub"/> |
+| **AI & Cloud** | <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/> <img src="https://img.shields.io/badge/Imagen-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Imagen"/> <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/> |
 
 ## 💼 Professional Experience
 
