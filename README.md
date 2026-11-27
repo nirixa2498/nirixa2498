@@ -1,7 +1,17 @@
 <!-- Premium Blue GitHub Profile README | Nirixa Sathavara -->
 
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Nirixa Sathavara — Android Developer | Kotlin and Java | Generative AI | Google Play | Google Cloud | Email" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Nirixa Sathavara — Android Developer | Kotlin and Java | Generative AI" />
+</div>
+
+<div align="center">
+
+[![Google Play Apps Portfolio](https://img.shields.io/badge/GOOGLE%20PLAY-APPS%20PORTFOLIO-16A34A?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Nirixa+Sathavara)
+&nbsp;
+[![Google Cloud Learning Profile](https://img.shields.io/badge/GOOGLE%20CLOUD-LEARNING%20PROFILE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT%20ME-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirixasathavara2498@gmail.com)
+
 </div>
 
 ---
@@ -93,7 +103,7 @@ Gujarat Technological University · 2015–2019
 
 [![Email — Contact Me](https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirixasathavara2498@gmail.com)
 
-[![Google Play — Apps Portfolio](https://img.shields.io/badge/Google%20Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Nirixa%2BSathavara)
+[![Google Play — Apps Portfolio](https://img.shields.io/badge/Google%20Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Nirixa+Sathavara)
 
 [![Google Cloud — Learning Profile](https://img.shields.io/badge/Google%20Cloud-Learning%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383)
 
