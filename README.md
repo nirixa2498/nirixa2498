@@ -1,4 +1,7 @@
-<!-- GitHub Profile README | Nirixa Sathavara -->
+<!--
+  GitHub Profile README — Nirixa Sathavara
+  Clean, recruiter-friendly portfolio inspired by modern engineering team profiles.
+-->
 
 <div align="center">
 
@@ -6,122 +9,122 @@
 
 ### Android Engineer · Kotlin & Java · Generative AI
 
-**I build mobile products with a focus on thoughtful UX, reliable engineering and useful technology.**
-
-<br/>
-
-<a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara">
-  <img src="https://img.shields.io/badge/Google_Play-Developer_Portfolio-0F9D58?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play portfolio" />
-</a>
-<a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383">
-  <img src="https://img.shields.io/badge/Google_Cloud-Learning_Profile-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud learning profile" />
-</a>
-<a href="mailto:nirixasathavara2498@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+**Building thoughtful mobile experiences with reliable engineering and practical AI.**
 
 Ahmedabad, Gujarat, India
+
+<p>
+  <a href="https://github.com/nirixa2498">
+    <img src="https://img.shields.io/badge/GitHub-nirixa2498-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara">
+    <img src="https://img.shields.io/badge/Google_Play-Apps-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play apps" />
+  </a>
+  <a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383">
+    <img src="https://img.shields.io/badge/Google_Cloud-Learning_Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud learning profile" />
+  </a>
+  <a href="mailto:nirixasathavara2498@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## Profile
+## About
 
 I'm a Computer Engineering graduate and Android developer with experience building and publishing mobile applications. I enjoy taking ideas from interface design through implementation, testing and release.
 
-My current areas of focus are:
+- **Android engineering:** Kotlin, Java, Android SDK and Android Studio
+- **Product experience:** UI implementation, usability and application quality
+- **Applied AI:** Exploring Gemini, Imagen and Vertex AI
+- **Application services:** Firebase, SQL, REST APIs and backend integration
 
-- **Android engineering** — Kotlin, Java, Android SDK and Android Studio
-- **Product experience** — clear UI, usability and app quality
-- **Applied AI** — learning and building with Gemini, Imagen and Vertex AI
-- **Application services** — Firebase, SQL, REST APIs and backend integration
+## Featured work
 
-## Featured project
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <h3>⚡ DevPulse AI</h3>
-  <p><b>AI-assisted developer productivity · Workflow intelligence</b></p>
-  <p>
-    An AI-powered project concept focused on helping developers make sense of their work and improve everyday development workflows.
-  </p>
-  <a href="https://youtu.be/TDF7M6JyOrg">
-    <img src="https://img.shields.io/badge/▶_Watch_Project_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DevPulse AI demo" />
-  </a>
-  <br/>
-  <sub>Submitted to the <b>Build, Ship, Shape: Amazon Developer Hackathon</b></sub>
-</div>
+### ⚡ DevPulse AI
 
-**Project focus**
+**AI-assisted developer productivity · Workflow intelligence**
+
+An AI-powered project exploring how intelligent workflows can help developers understand their work and improve everyday development processes.
+
 - Developer productivity and workflow intelligence
-- Applying generative AI to practical developer workflows
-- Exploring ways to make development work more organized and actionable
+- Practical generative AI exploration
+- Submitted to the **Build, Ship, Shape: Amazon Developer Hackathon**
 
-## Selected applications
+<p>
+  <a href="https://github.com/nirixa2498/devpulse-ai"><img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github" alt="Explore DevPulse AI repository" /></a>
+  <a href="https://youtu.be/TDF7M6JyOrg"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch project demo" /></a>
+</p>
 
-A selection of Android applications published under my developer portfolio.
+</td>
+<td width="50%" valign="top">
 
-| Application | Overview | |
-|---|---|---|
-| **Mahabali Panchmukhi Hanuman** | Devotional mobile application | [Google Play ↗](https://play.google.com/store/apps/details?id=nirixa.crystal.sathavara) |
-| **PDF Editor, Scanner & AI Sign** | PDF and document productivity app | [Google Play ↗](https://play.google.com/store/apps/details?id=pdf.docucraft.sign.pro) |
-| **Crossy Road: Traffic Run** | Crossy Road: Traffic Run, 3D arcade world gameplay | [Google Play ↗](https://play.google.com/store/apps/details?id=crosser.road.cross) |
-| **Tic Tac Toe: Shiva X Rock** | Strategy board game | [Google Play ↗](https://play.google.com/store/apps/details?id=nirixa.shiva_rock.sathavara) |
+### 📱 Published Android applications
 
-**Explore:** [All apps on Google Play](https://play.google.com/store/apps/developer?id=Nirixa+Sathavara)
+A selection of applications from my Google Play developer portfolio.
+
+- **Mahabali Panchmukhi Hanuman**  
+  [View on Google Play](https://play.google.com/store/apps/details?id=nirixa.crystal.sathavara)
+
+- **PDF DocuCraft Sign Pro**  
+  PDF and document productivity  
+  [View on Google Play](https://play.google.com/store/apps/details?id=pdf.docucraft.sign.pro)
+
+- **Crossy Road: Traffic Run**  
+  3D arcade world gameplay  
+  [View on Google Play](https://play.google.com/store/apps/details?id=crosser.road.cross)
+
+- **Tic Tac Toe: Shiva X Rock**  
+  Strategy board game  
+  [View on Google Play](https://play.google.com/store/apps/details?id=nirixa.shiva_rock.sathavara)
+
+<p><a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara">Explore all apps ↗</a></p>
+
+</td>
+</tr>
+</table>
 
 ## Technical toolkit
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/XML-0060A8?style=flat-square&logo=xml&logoColor=white" alt="XML" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Android & UI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
-      <img src="https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/Imagen-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Imagen" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-  </tr>
-</table>
+| Area | Technologies |
+|---|---|
+| **Languages** | Kotlin, Java, SQL, PHP, XML |
+| **Android & UI** | Android SDK, Android Studio, Material Design, Figma |
+| **AI & Cloud** | Google Cloud Vertex AI, Gemini, Imagen, Firebase |
+| **Backend & Data** | REST APIs, MySQL |
+| **Engineering** | UI/UX, debugging, testing, application performance |
 
-## Experience
+<div align="center">
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+
+</div>
+
+## Professional experience
 
 **Android Developer**  
-Wealthstreet Financial Services Private Limited · June 2022 – September 2022
+Wealthstreet Financial Services Private Limited · *June 2022 – September 2022*
 
 **Android Developer Intern**  
-Way To Web Pvt Ltd · June 2018 – April 2019
+Way To Web Pvt Ltd · *June 2018 – April 2019*
 
 ## Education
 
 **Bachelor of Engineering — Computer Engineering**  
-Gujarat Technological University · 2015–2019
+Gujarat Technological University · *2015–2019*
 
 ## Certifications
 
@@ -134,7 +137,7 @@ Gujarat Technological University · 2015–2019
 
 ## Connect
 
-I'm open to connecting with engineers, product teams and people building thoughtful mobile and AI-powered products.
+I'm happy to connect with engineers, product teams and people building thoughtful mobile and AI-powered products.
 
 - **Email:** [nirixasathavara2498@gmail.com](mailto:nirixasathavara2498@gmail.com)
 - **Google Play:** [Developer portfolio](https://play.google.com/store/apps/developer?id=Nirixa+Sathavara)
@@ -143,5 +146,7 @@ I'm open to connecting with engineers, product teams and people building thought
 ---
 
 <div align="center">
-  <sub>Build with purpose. Keep learning. Improve with every release.</sub>
+
+*Build with purpose. Keep learning. Improve with every release.*
+
 </div>
