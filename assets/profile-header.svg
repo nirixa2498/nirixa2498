@@ -1,34 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Nirixa Sathavara — Android Developer</title>
-  <desc id="desc">Navy and royal blue gradient developer profile banner with Android, Kotlin, Java, Generative AI and professional tagline.</desc>
+  <desc id="desc">Navy blue and royal blue profile header featuring Android Developer, Kotlin and Java, Generative AI, professional tagline, Google Play, Google Cloud and Email links.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#071426"/>
       <stop offset="52%" stop-color="#102C52"/>
       <stop offset="100%" stop-color="#174EA6"/>
     </linearGradient>
-    <radialGradient id="glow">
+    <radialGradient id="glow" cx="82%" cy="14%" r="72%">
       <stop offset="0%" stop-color="#60A5FA" stop-opacity=".34"/>
       <stop offset="100%" stop-color="#60A5FA" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="line" x1="0" x2="1">
       <stop offset="0%" stop-color="#60A5FA" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#93C5FD" stop-opacity=".75"/>
+      <stop offset="50%" stop-color="#93C5FD" stop-opacity=".7"/>
       <stop offset="100%" stop-color="#60A5FA" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
-  <circle cx="1030" cy="65" r="270" fill="url(#glow)"/>
-  <circle cx="180" cy="380" r="250" fill="url(#glow)" opacity=".45"/>
-  <path d="M0 300 C260 210 380 410 650 300 S1000 210 1200 270" fill="none" stroke="url(#line)" stroke-width="2"/>
-  <path d="M0 326 C260 236 390 436 660 326 S1000 236 1200 296" fill="none" stroke="#93C5FD" stroke-opacity=".13" stroke-width="1"/>
-  <g fill="#BFDBFE" opacity=".65">
-    <circle cx="1010" cy="105" r="3"/><circle cx="1060" cy="140" r="2"/><circle cx="940" cy="190" r="2"/><circle cx="1105" cy="235" r="3"/><circle cx="860" cy="78" r="2"/>
-  </g>
-  <text x="600" y="126" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="2">NIRIXA SATHAVARA</text>
-  <text x="600" y="183" text-anchor="middle" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" letter-spacing="2">ANDROID DEVELOPER  ·  KOTLIN &amp; JAVA  ·  GENERATIVE AI</text>
-  <rect x="240" y="220" width="720" height="1.5" rx="1" fill="#60A5FA" opacity=".55"/>
-  <text x="600" y="270" text-anchor="middle" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="20">I build mobile products with a focus on thoughtful UX,</text>
-  <text x="600" y="301" text-anchor="middle" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="20">reliable engineering and useful technology.</text>
-  <text x="600" y="355" text-anchor="middle" fill="#93C5FD" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">AHMEDABAD, GUJARAT, INDIA</text>
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#glow)"/>
+  <circle cx="1040" cy="80" r="190" fill="none" stroke="#93C5FD" stroke-opacity=".12" stroke-width="1.5"/>
+  <circle cx="1040" cy="80" r="145" fill="none" stroke="#93C5FD" stroke-opacity=".09" stroke-width="1.5"/>
+  <path d="M0 365 C260 275 400 455 680 355 S1000 285 1200 335" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <g fill="#BFDBFE" opacity=".6"><circle cx="960" cy="105" r="3"/><circle cx="1090" cy="165" r="2"/><circle cx="900" cy="220" r="2"/><circle cx="1135" cy="265" r="3"/></g>
+  <text x="600" y="105" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" letter-spacing="2">NIRIXA SATHAVARA</text>
+  <text x="600" y="157" text-anchor="middle" fill="#BFDBFE" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" letter-spacing="1.4">ANDROID DEVELOPER  ·  KOTLIN &amp; JAVA  ·  GENERATIVE AI</text>
+  <path d="M230 190 H970" stroke="#60A5FA" stroke-opacity=".55" stroke-width="1.5"/>
+  <text x="600" y="235" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="20">I build mobile products with a focus on thoughtful UX,</text>
+  <text x="600" y="265" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="20">reliable engineering and useful technology.</text>
+  <a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara">
+    <rect x="235" y="300" width="230" height="54" rx="11" fill="#15803D"/>
+    <text x="350" y="334" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">▶  GOOGLE PLAY</text>
+  </a>
+  <a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383">
+    <rect x="485" y="300" width="250" height="54" rx="11" fill="#2563EB" stroke="#93C5FD" stroke-opacity=".55"/>
+    <text x="610" y="334" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">✦  GOOGLE CLOUD</text>
+  </a>
+  <a href="mailto:nirixasathavara2498@gmail.com">
+    <rect x="755" y="300" width="190" height="54" rx="11" fill="#B91C1C"/>
+    <text x="850" y="334" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">✉  EMAIL</text>
+  </a>
+  <text x="600" y="395" text-anchor="middle" fill="#BFDBFE" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">AHMEDABAD, GUJARAT, INDIA</text>
 </svg>
