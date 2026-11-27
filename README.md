@@ -1,86 +1,72 @@
-<!-- Premium GitHub Profile README | Nirixa Sathavara -->
+# Nirixa Sathavara
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101828,50:173B65,100:2563EB&height=190&section=header&text=NIRIXA%20SATHAVARA&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=ANDROID%20ENGINEER%20%7C%20KOTLIN%20%7C%20JAVA%20%7C%20APPLIED%20AI&descSize=14&descAlignY=66&animation=fadeIn" alt="Nirixa Sathavara profile banner" />
-  <br/>
-  <a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara"><img src="https://img.shields.io/badge/Google_Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play portfolio"/></a>
-  <a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383"><img src="https://img.shields.io/badge/Google_Cloud-Learning%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud profile"/></a>
-  <a href="mailto:nirixasathavara2498@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <p><b>Building useful Android experiences with clean UI, reliable code and practical AI.</b></p>
-  <p>Ahmedabad, Gujarat, India</p>
-</div>
+**Android Engineer · Kotlin · Java · Applied AI**  
+Ahmedabad, Gujarat, India
+
+I build Android applications with an emphasis on clear user experiences, maintainable implementation, and dependable releases. My interests include mobile engineering, product quality, and practical applications of generative AI.
+
+[Google Play portfolio](https://play.google.com/store/apps/developer?id=Nirixa+Sathavara) · [Google Cloud profile](https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383) · [Email](mailto:nirixasathavara2498@gmail.com)
 
 ---
 
-## 👋 About
+## What I work on
 
-I'm a Computer Engineering graduate and Android developer interested in building and shipping mobile products. I enjoy working across the product journey—from understanding an idea and shaping its interface to implementation, testing and release.
+| Area | Tools and focus |
+|---|---|
+| **Android development** | Kotlin, Java, Android SDK, Android Studio |
+| **Application services** | Firebase, REST APIs, SQL, MySQL |
+| **AI and cloud** | Gemini, Imagen, Vertex AI |
+| **Product experience** | UI usability, interface design, app quality |
 
-- 📱 **Android:** Kotlin, Java, Android SDK and Android Studio
-- 🎨 **Product & UI:** usability, interface design and app quality
-- 🤖 **Applied AI:** Gemini, Imagen and Vertex AI
-- 🔌 **Services & data:** Firebase, REST APIs, SQL and MySQL
+## Selected work
 
-## 🚀 Featured Work
-
-### ⚡ DevPulse AI
+### DevPulse AI
 **AI-assisted developer productivity · Workflow intelligence**
 
-An AI-powered project concept exploring how generative AI can help developers understand work and make everyday workflows more organized and actionable.
+A project exploring how generative AI can help developers understand their work and make everyday development workflows more organized and actionable.
 
-<div align="center">
-  <a href="https://youtu.be/TDF7M6JyOrg"><img src="https://img.shields.io/badge/▶%20WATCH%20PROJECT%20DEMO-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DevPulse AI demo"/></a>
-  <p><sub>Submitted to the <b>Build, Ship, Shape: Amazon Developer Hackathon</b></sub></p>
-</div>
+[Watch the project demo](https://youtu.be/TDF7M6JyOrg) · *Submitted to the Build, Ship, Shape: Amazon Developer Hackathon*
 
-## 📲 Published Applications
+### Published Android applications
 
-| Application | What it does | |
-|:--|:--|:--:|
-| **Mahabali Panchmukhi Hanuman** | Devotional mobile experience | [Google Play ↗](https://play.google.com/store/apps/details?id=nirixa.crystal.sathavara) |
-| **PDF Editor, Scanner & AI Sign** | PDF and document productivity | [Google Play ↗](https://play.google.com/store/apps/details?id=pdf.docucraft.sign.pro) |
-| **Crossy Road: Traffic Run** | 3D arcade-style traffic gameplay | [Google Play ↗](https://play.google.com/store/apps/details?id=crosser.road.cross) |
-| **Tic Tac Toe: Shiva X Rock** | Strategy board game | [Google Play ↗](https://play.google.com/store/apps/details?id=nirixa.shiva_rock.sathavara) |
+| Application | Focus | Store |
+|---|---|---|
+| **PDF Editor, Scanner & AI Sign** | PDF and document productivity | [Google Play](https://play.google.com/store/apps/details?id=pdf.docucraft.sign.pro) |
+| **Crossy Road: Traffic Run** | 3D arcade-style gameplay | [Google Play](https://play.google.com/store/apps/details?id=crosser.road.cross) |
+| **Tic Tac Toe: Shiva X Rock** | Strategy board game | [Google Play](https://play.google.com/store/apps/details?id=nirixa.shiva_rock.sathavara) |
+| **Mahabali Panchmukhi Hanuman** | Devotional mobile experience | [Google Play](https://play.google.com/store/apps/details?id=nirixa.crystal.sathavara) |
 
-<div align="center">
-  <a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara"><b>Explore all apps on Google Play →</b></a>
-</div>
+[View all published apps](https://play.google.com/store/apps/developer?id=Nirixa+Sathavara)
 
-## 🧰 Technology Stack
+## Technical toolkit
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+</p>
 
-**Languages**
+## Experience
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,php,mysql" alt="Kotlin, Java, PHP and MySQL"/>
+**Android Developer** — Wealthstreet Financial Services Private Limited  
+*June 2022 – September 2022*
 
-**Android, Design & Tools**
+**Android Developer Intern** — Way To Web Pvt Ltd  
+*June 2018 – April 2019*
 
-<img src="https://skillicons.dev/icons?i=androidstudio,android,figma,firebase,git,github" alt="Android Studio, Android, Figma, Firebase, Git and GitHub"/>
+## Education
 
-**AI & Cloud**
-
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
-<img src="https://img.shields.io/badge/Imagen-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Imagen"/>
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
-
-</div>
-
-## 💼 Experience
-
-**Android Developer** · Wealthstreet Financial Services Private Limited  
-<sub>June 2022 – September 2022</sub>
-
-**Android Developer Intern** · Way To Web Pvt Ltd  
-<sub>June 2018 – April 2019</sub>
-
-## 🎓 Education
-
-**Bachelor of Engineering — Computer Engineering**  
+**Bachelor of Engineering, Computer Engineering**  
 Gujarat Technological University · 2015–2019
 
-## 📜 Certifications
+## Certifications
 
 - Prompt Design in Vertex AI — Google Cloud Skills Boost
 - Build Real World AI Applications with Gemini and Imagen — Google Cloud Skills Boost
@@ -89,9 +75,9 @@ Gujarat Technological University · 2015–2019
 - Digital Marketing Certification — Google
 - Cyber Security & Women Safety Certification — Halla Bol Season 2
 
-## 🤝 Let's Connect
+## Contact
 
-I'm interested in connecting with Android engineers, developers, product teams and people building thoughtful mobile and AI-powered products.
+For Android development, mobile product, and applied AI conversations:
 
 - **Email:** [nirixasathavara2498@gmail.com](mailto:nirixasathavara2498@gmail.com)
 - **Google Play:** [Developer portfolio](https://play.google.com/store/apps/developer?id=Nirixa+Sathavara)
@@ -99,8 +85,4 @@ I'm interested in connecting with Android engineers, developers, product teams a
 
 ---
 
-<div align="center">
-  <sub><b>Build with purpose. Keep learning. Improve with every release.</b></sub>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:101828&height=90&section=footer" alt="Decorative footer"/>
-</div>
+*Build thoughtfully. Ship reliably. Keep learning.*
