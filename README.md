@@ -1,17 +1,16 @@
 <!-- Premium Blue GitHub Profile README | Nirixa Sathavara -->
 
-<div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Nirixa Sathavara — Android Developer | Kotlin and Java | Generative AI" />
-</div>
-
-<table width="100%" cellpadding="14" cellspacing="0" bgcolor="#102C52">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td align="center" bgcolor="#102C52">
+      <img src="./assets/profile-header.svg" width="100%" alt="Nirixa Sathavara — Android Developer | Kotlin and Java | Generative AI" />
+      <br/><br/>
       <a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara"><img src="https://img.shields.io/badge/Google%20Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play — Apps Portfolio" /></a>
       &nbsp;&nbsp;
       <a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383"><img src="https://img.shields.io/badge/Google%20Cloud-Learning%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud — Learning Profile" /></a>
       &nbsp;&nbsp;
       <a href="mailto:nirixasathavara2498@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — Contact Me" /></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
