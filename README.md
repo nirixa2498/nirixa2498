@@ -4,8 +4,6 @@
 -->
 
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Nirixa Sathavara — Android & AI Engineer" width="100%" />
-
   <h1>Hi, I'm Nirixa Sathavara 👋</h1>
   <h3>Android Engineer · Kotlin & Java · Generative AI</h3>
 
