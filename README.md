@@ -1,12 +1,17 @@
 <!-- Premium Blue GitHub Profile README | Nirixa Sathavara -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101828,50:173B65,100:2563EB&height=190&section=header&text=NIRIXA%20SATHAVARA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ANDROID%20ENGINEER%20%7C%20KOTLIN%20%26%20JAVA%20%7C%20GENERATIVE%20AI&descSize=15&descAlignY=62&animation=fadeIn" alt="Nirixa Sathavara — Android Engineer, Kotlin and Java, Generative AI" />
-  <p><b>I build mobile products with a focus on thoughtful UX, reliable engineering and useful technology.</b></p>
-  <a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara"><img src="https://img.shields.io/badge/Google_Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play portfolio"/></a>
-  <a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383"><img src="https://img.shields.io/badge/Google_Cloud-Learning%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud profile"/></a>
-  <a href="mailto:nirixasathavara2498@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <p>⌖ Ahmedabad, Gujarat, India</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101828,50:173B65,100:2563EB&height=210&section=header&text=NIRIXA%20SATHAVARA&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=ANDROID%20DEVELOPER%20%7C%20KOTLIN%20%26%20JAVA%20%7C%20GENERATIVE%20AI&descSize=15&descAlignY=57&animation=fadeIn" alt="Nirixa Sathavara — Android Developer, Kotlin and Java, Generative AI" />
+
+  <p><strong>I build mobile products with a focus on thoughtful UX, reliable engineering and useful technology.</strong></p>
+
+  <p>
+    <a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara"><img src="https://img.shields.io/badge/Google_Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play portfolio"/></a>
+    <a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383"><img src="https://img.shields.io/badge/Google_Cloud-Learning%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud profile"/></a>
+    <a href="mailto:nirixasathavara2498@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+
+  <p>Ahmedabad, Gujarat, India</p>
 </div>
 
 ---
