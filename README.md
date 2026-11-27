@@ -1,25 +1,14 @@
-<table width="100%" bgcolor="#071426">
-  <tr>
-     <td align="center">
-      <br/>
-      <font color="#FFFFFF" size="6"><b>NIRIXA SATHAVARA</b></font>
-      <br/><br/>
-      <font color="#BFDBFE"><b>ANDROID DEVELOPER · KOTLIN &amp; JAVA · GENERATIVE AI</b></font>
-      <br/><br/>
-      <font color="#F8FAFC">Building mobile products with thoughtful UX, reliable engineering and useful technology.</font>
-      <br/><br/>
-      <a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara"><img src="https://img.shields.io/badge/GOOGLE_PLAY-APPS_PORTFOLIO-102C52?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white&amp;labelColor=071426" alt="Google Play — Apps Portfolio"/></a>
-      &nbsp;
-      <a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383"><img src="https://img.shields.io/badge/GOOGLE_CLOUD-LEARNING_PROFILE-102C52?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white&amp;labelColor=071426" alt="Google Cloud — Learning Profile"/></a>
-      &nbsp;
-      <a href="mailto:nirixasathavara2498@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-102C52?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=071426" alt="Email — Contact Me"/></a>
-      <br/><br/>
-      <font color="#BFDBFE" size="2">AHMEDABAD · GUJARAT · INDIA</font>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Nirixa Sathavara — Android Developer | Kotlin and Java | Generative AI" />
+</div>
 
+<div align="center">
+
+[![Google Play — Apps Portfolio](https://img.shields.io/badge/GOOGLE_PLAY-APPS_PORTFOLIO-102C52?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=071426)](https://play.google.com/store/apps/developer?id=Nirixa+Sathavara)&nbsp;
+[![Google Cloud — Learning Profile](https://img.shields.io/badge/GOOGLE_CLOUD-LEARNING_PROFILE-102C52?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=071426)](https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383)&nbsp;
+[![Email — Contact Me](https://img.shields.io/badge/EMAIL-CONTACT_ME-102C52?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071426)](mailto:nirixasathavara2498@gmail.com)
+
+</div>
 ---
 
 ## 👋 About Me
