@@ -91,20 +91,13 @@ Gujarat Technological University · 2015–2019
 
 <div align="center">
 
-  <a href="mailto:nirixasathavara2498@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — contact Nirixa" />
-  </a>
-  &nbsp;
-  <a href="https://play.google.com/store/apps/developer?id=Nirixa%20Sathavara">
-    <img src="https://img.shields.io/badge/Google%20Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Open Nirixa Sathavara Google Play developer portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383">
-    <img src="https://img.shields.io/badge/Google%20Cloud-Learning%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Open Nirixa Sathavara Google Cloud Skills profile" />
-  </a>
+[![Email — Contact Me](https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirixasathavara2498@gmail.com)
+
+[![Google Play — Apps Portfolio](https://img.shields.io/badge/Google%20Play-Apps%20Portfolio-16A34A?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Nirixa%2BSathavara)
+
+[![Google Cloud — Learning Profile](https://img.shields.io/badge/Google%20Cloud-Learning%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383)
 
 </div>
-
 ---
 
 <div align="center">
