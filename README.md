@@ -65,7 +65,7 @@ A selection of Android applications published under my developer portfolio.
 |---|---|---|
 | **Mahabali Panchmukhi Hanuman** | Devotional mobile application | [Google Play ↗](https://play.google.com/store/apps/details?id=nirixa.crystal.sathavara) |
 | **PDF Editor, Scanner & AI Sign** | PDF and document productivity app | [Google Play ↗](https://play.google.com/store/apps/details?id=pdf.docucraft.sign.pro) |
-| **Crossy Road: Traffic Run** | Crossy Road: Traffic Run, step into a fast-paced 3D arcade world gameplay | [Google Play ↗]([https://play.google.com/store/apps/details?id=crosser.road.cross] |
+| **Crossy Road: Traffic Run** | Crossy Road: Traffic Run, 3D arcade world gameplay | [Google Play ↗] (https://play.google.com/store/apps/details?id=crosser.road.cross) |
 | **Tic Tac Toe: Shiva X Rock** | Strategy board game | [Google Play ↗](https://play.google.com/store/apps/details?id=nirixa.shiva_rock.sathavara) |
 
 **Explore:** [All apps on Google Play](https://play.google.com/store/apps/developer?id=Nirixa+Sathavara)
