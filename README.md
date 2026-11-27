@@ -22,17 +22,21 @@ I'm a Computer Engineering graduate and Android developer interested in building
 
 ## 🚀 Featured Project
 
+<div align="center">
+
 ### ⚡ DevPulse AI
 
 **AI-assisted developer productivity · Workflow intelligence**
 
 An AI-powered project concept focused on helping developers make sense of their work and improve everyday development workflows.
 
-<div align="left">
-  <a href="https://youtu.be/TDF7M6JyOrg"><img src="https://img.shields.io/badge/▶%20Watch%20DevPulse%20AI%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DevPulse AI demo"/></a>
-</div>
+<a href="https://youtu.be/TDF7M6JyOrg">
+  <img src="https://img.shields.io/badge/▶_Watch_DevPulse_AI_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DevPulse AI demo"/>
+</a>
 
 <sub>Submitted to the <b>Build, Ship, Shape: Amazon Developer Hackathon</b></sub>
+
+</div>
 
 **Project focus**
 
