@@ -2,6 +2,14 @@
   <img src="./assets/profile-header.svg" width="100%" alt="NIRIXA SATHAVARA — ANDROID DEVELOPER · KOTLIN & JAVA · GENERATIVE AI. Building mobile products with thoughtful UX, reliable engineering and useful technology. AHMEDABAD · GUJARAT · INDIA." />
 </div>
 
+<div align="center">
+
+<a href="https://play.google.com/store/apps/developer?id=Nirixa+Sathavara"><img src="https://img.shields.io/badge/%E2%80%8B-102C52?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" height="38"/></a>&nbsp;&nbsp;
+<a href="https://www.skills.google/public_profiles/872c5004-2672-4fdc-b22b-d455b25cf383"><img src="https://img.shields.io/badge/%E2%80%8B-102C52?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" height="38"/></a>&nbsp;&nbsp;
+<a href="mailto:nirixasathavara2498@gmail.com"><img src="https://img.shields.io/badge/%E2%80%8B-102C52?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="38"/></a>
+
+</div>
+
 ---
 
 ## 👋 About Me
