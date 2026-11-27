@@ -1,6 +1,6 @@
 <table width="100%" bgcolor="#071426">
   <tr>
-    <td align="center">
+     <td align="center">
       <br/>
       <font color="#FFFFFF" size="6"><b>NIRIXA SATHAVARA</b></font>
       <br/><br/>
